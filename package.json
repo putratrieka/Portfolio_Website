@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/putratrieka/My_Portfolio_Website/issues"
   },
-  "homepage": "https://github.com/putratrieka/My_Portfolio_Website#readme"
+  "homepage": "https://github.com/putratrieka/My_Portfolio_Website#readme",
+  "dependencies": {
+    "gh-pages": "^2.0.1"
+  }
 }
